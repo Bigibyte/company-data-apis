@@ -54,6 +54,17 @@ These **28,568 ready-to-use company data APIs** help you pull business data into
 
 Pick an API below, open it, try a small run, then export the results.
 
+<details>
+<summary><b>Who uses company data APIs? (click to open)</b></summary>
+
+- **Sales teams:** look up size, industry and location before a call.
+- **RevOps and CRM admins:** fill in missing company fields automatically.
+- **Investors and analysts:** track funding rounds, investors and new startups.
+- **Recruiters:** spot companies that are hiring and growing.
+- **Compliance teams:** check legal entity and registry records.
+
+</details>
+
 ---
 
 ## ⭐ Star This Repository
